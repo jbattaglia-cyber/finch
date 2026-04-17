@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="!O1DSO%@`s|p6H0uQ|ja" x="0" y="0"></block><block type="device_forever" id="VzVQ5i|2~.Ri.;=dZOa^" x="286" y="20"><statement name="HANDLER"><block type="basic_show_icon" id="heUozMXt.EUs]Zht-*lz"><field name="i">IconNames.Yes</field></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="!O1DSO%@`s|p6H0uQ|ja" x="0" y="0"></block><block type="device_forever" id="VzVQ5i|2~.Ri.;=dZOa^" x="286" y="20"><statement name="HANDLER"><block type="device_show_leds" id="f+5w`JH5mq4CLXfN5R#K"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block><block type="basic_show_icon" id="heUozMXt.EUs]Zht-*lz" disabled-reasons="pxt_automatic_disabled" x="63" y="667"><field name="i">IconNames.Yes</field></block></xml>
